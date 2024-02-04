@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 04 15:41:51 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-7491-8979-000001e1c708 
+on database directory memory:C:\ws_JavaBrains\movie-info-service\9b3b45b9-add5-4ffc-ae16-2ae74ca2ece2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/mark.a.mckenna/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.10+11-LTS-240
+user.dir=C:\ws_JavaBrains\movie-info-service
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
